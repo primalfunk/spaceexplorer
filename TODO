@@ -1,0 +1,12 @@
+DevLog
+1/5/2014: Started work on Space Explorer.
+ - generated visual assets: spaceship, asteroid, star
+ - created Phaser.js app with low gravity physics
+ - multiple star types with different gravitational effects
+ - Game Over screen on asteroid collision; keypress restarts
+
+
+TODO:
+- fix hitboxes on spaceship and asteroids
+- implement loot and radar (HUD)
+- implement score, level clear
